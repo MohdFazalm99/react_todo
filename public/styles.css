@@ -6,7 +6,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: hsl(210, 20%, 96%);
+  color: hsl(0, 0%, 0%);
   font-family: "Architects Daughter", cursive;
   text-align: center;
   font-size: 130%;
@@ -50,7 +50,7 @@ body {
   border-bottom: dashed 3px #6651af;
   font-family: "Architects Daughter", cursive;
   font-size: 1rem;
-  color: hsla(260, 2%, 25%, 0.7);
+  color: hsla(263, 67%, 2%, 0.7);
   width: 70%;
   margin-bottom: 20px;
 }
